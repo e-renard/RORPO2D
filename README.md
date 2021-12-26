@@ -80,4 +80,3 @@ rorpoDirectionVyName = "./results/<imageSortie>_vy.png"
 ## Références
 Le projet RORPO est un projet de recherche mené par : Odyssée Merveille, Benoit Naegel, Hugues Talbot, Laurent Najman, Nicolas Passat.
 
-
